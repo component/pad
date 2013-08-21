@@ -2,7 +2,10 @@
   "name": "pad-component",
   "version": "0.0.1",
   "description": "Pad strings to a given length",
-  "keywords": ["string", "pad"],
+  "keywords": [
+    "string",
+    "pad"
+  ],
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
   "dependencies": {},
   "devDependencies": {
@@ -13,5 +16,9 @@
     "scripts": {
       "pad/index.js": "index.js"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/pad.git"
   }
 }
